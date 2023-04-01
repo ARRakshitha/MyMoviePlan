@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Mymovieplan"
+    }
+  },
+  "defaultProject": "Mymovieplan",
+  "cli": {
+    "analytics": "1ee39198-d029-4dac-8ca5-95dd0eabd14a"
+  }
 }
